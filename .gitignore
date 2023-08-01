@@ -1,0 +1,4 @@
+dist/
+debug/
+.env
+*.tgz
